@@ -13,4 +13,4 @@ EXPOSE 8501
 ENV LC_ALL=C.UTF-8
 ENV LANG=C.UTF-8
 
-CMD ["streamlit", "run", "main.py"]
+CMD ["streamlit", "run", "app.py"]
